@@ -56,9 +56,9 @@ Passionate about building user-friendly web applications, exploring backend deve
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sneha-2110&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-2110&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -67,7 +67,7 @@ Passionate about building user-friendly web applications, exploring backend deve
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Sneha-2110&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
