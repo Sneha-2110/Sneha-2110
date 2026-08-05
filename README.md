@@ -16,4 +16,4 @@
 📫 **Connect with me:**
 - Behance: [behance.net/snehapandit2](https://behance.net/snehapandit2)
 
-💡 Fun fact: I love thriller & psychological suspense films!
+
