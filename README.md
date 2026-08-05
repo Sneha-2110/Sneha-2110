@@ -52,26 +52,6 @@ Passionate about building user-friendly web applications, exploring backend deve
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sneha-2110&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-2110&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Sneha-2110&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🌟 Currently Working On
 
 - 🚀 Backend Development with FastAPI
